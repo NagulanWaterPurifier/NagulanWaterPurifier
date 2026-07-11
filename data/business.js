@@ -12,7 +12,7 @@ export const business = {
   phone: "+917806984899",
   phoneDisplay: "+91 78069 84899",
   whatsapp: "917806984899", // digits only, with country code, for wa.me links
-  email: "info@nagulanwaterpurifier.com",
+  email: "udhaikuttipaiyan@gmail.com",
   website: "https://www.nagulanwaterpurifier.in",
   logo: "/logo.png",
   address: {
