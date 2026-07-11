@@ -13,7 +13,7 @@ export const business = {
   phoneDisplay: "+91 78069 84899",
   whatsapp: "917806984899", // digits only, with country code, for wa.me links
   email: "info@nagulanwaterpurifier.com",
-  website: "https://www.nagulanwaterpurifier.com",
+  website: "https://www.nagulanwaterpurifier.in",
   logo: "/logo.png",
   address: {
     streetAddress: "Telungupalayam, Selvapuram North",
